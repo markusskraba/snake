@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Place
+comment1.params=
+comment1.target=Place()
+comment2.params=
+comment2.target=void\ nextCard()
+comment3.params=
+comment3.target=void\ menuCard()
+comment4.params=
+comment4.target=void\ optionsCard()
+comment5.params=
+comment5.target=void\ scoreCard()
+numComments=6
